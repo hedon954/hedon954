@@ -19,4 +19,4 @@ jobs:
           feed_list: "https://hedon.top/atom.xml"
           max_post_count: 10
           date_format: "yyyy-MM-dd"
-          template: "- [$title]($url)($date) "
+          template: $newline - [$title]($url) - $categories - $date
