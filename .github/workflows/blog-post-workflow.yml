@@ -19,3 +19,10 @@ jobs:
           feed_list: "https://hedon.top/atom.xml"
           max_post_count: 10
           date_format: "yyyy-MM-dd"
+          item_exec: |
+                if (post.categories.includes("Rust")) {
+                    post.title = "🦀  " + post.title  + " " + $date;
+                } else {
+                    post.title = "😃  " + post.title  + " " + $date;
+                }
+                |
