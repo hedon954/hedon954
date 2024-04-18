@@ -19,4 +19,4 @@ jobs:
           feed_list: "https://hedon.top/atom.xml"
           max_post_count: 10
           date_format: "yyyy-mm-dd"
-          template: $newline - $randomEmoji(💯,🔥,💫,🚀,🌮)[$title]($url)($date)
+          template: $newline - $randomEmoji(🥸,🤬,🤯,🤡,🎃,🦁,🐧,🐥,🐣,🐞,🐌,🦀,🦞,🐳,🦧,🐓,🐁,🐿️,🍄,🍤,🍧,🍭,🍯) [$title]($url) ($date)
