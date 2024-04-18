@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Hedon Wang</h1>
 <h3 align="center">A Golang backend developer from China, now exploring Rust Programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hedon954&label=Profile%20views&color=0e75b6&style=flat" alt="hedon954" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hedon954&label=Profile%20views&color=0e75b6&style=flat" alt="hedon954" /> </p>
 
 - :computer: I’m currently learning **Rust**
 
