@@ -10,6 +10,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/hedon954](https://github.com/hedon954)
 
 - 📝 I regularly write articles on [https://hedon.top](https://hedon.top)
+  
+- 🍞 My Zhihu homepage is [https://www.zhihu.com/people/hedon-3/posts](https://www.zhihu.com/people/hedon-3/posts)
 
 - 💬 Ask me about **go, rust and backend system designing**
 
