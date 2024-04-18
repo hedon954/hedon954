@@ -22,6 +22,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust 实战丨并发构建倒排索引](https://hedon.top/2024/04/18/rust-action-inverted-index-concurrency/)
+- [Rust 实战丨倒排索引](https://hedon.top/2024/04/15/rust-action-inverted-index-demo/)
+- [深入浅出 Go 语言的 defer 机制](https://hedon.top/2024/03/28/go-defer/)
+- [深入 Go 语言核心：结构体的全方位解析](https://hedon.top/2024/03/09/go-struct/)
+- [Rust 实战丨HTTPie](https://hedon.top/2024/03/06/rust-action-httpie/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
