@@ -17,3 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://hedon.top/atom.xml"
+          max_post_count: 10
+          date_format: "yyyy-MM-dd"
