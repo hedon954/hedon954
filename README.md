@@ -24,16 +24,16 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [Rust 实战丨并发构建倒排索引](https://hedon.top/2024/04/23/rust-action-inverted-index-concurrency/) (2024-04-23)
- - 🐌 [Rust 实战丨倒排索引](https://hedon.top/2024/04/15/rust-action-inverted-index-demo/) (2024-04-15)
- - 🦁 [深入浅出 Go 语言的 defer 机制](https://hedon.top/2024/03/28/go-defer/) (2024-03-28)
- - 🍯 [深入 Go 语言核心：结构体的全方位解析](https://hedon.top/2024/03/09/go-struct/) (2024-03-09)
- - 🍭 [Rust 实战丨HTTPie](https://hedon.top/2024/03/06/rust-action-httpie/) (2024-03-06)
- - 🤯 [Rust anyhow 简明教程](https://hedon.top/2024/03/05/rust-crate-anyhow/) (2024-03-05)
- - 🍄 [深入探索 Rust 的 clap 库：命令行解析的艺术](https://hedon.top/2024/03/02/rust-crate-clap/) (2024-03-02)
- - 🐧 [Rust reqwest 简明教程](https://hedon.top/2024/03/02/rust-crate-reqwest/) (2024-03-02)
- - 🐿️ [深入浅出 Go 语言的 GPM 模型（Go1.21）](https://hedon.top/2024/01/20/go-gpm/) (2024-01-20)
- - 🍯 [Rust 实战丨绘制曼德博集](https://hedon.top/2024/01/17/rust-action-mandelbrot/) (2024-01-17)<!-- BLOG-POST-LIST:END -->
+ - 🎃 [epoll](https://hedon.top/2024/04/28/epoll/) (2024-04-28)
+ - 🐌 [Rust 实战丨并发构建倒排索引](https://hedon.top/2024/04/23/rust-action-inverted-index-concurrency/) (2024-04-23)
+ - 🦁 [Rust 实战丨倒排索引](https://hedon.top/2024/04/15/rust-action-inverted-index-demo/) (2024-04-15)
+ - 🍯 [深入浅出 Go 语言的 defer 机制](https://hedon.top/2024/03/28/go-defer/) (2024-03-28)
+ - 🍭 [深入 Go 语言核心：结构体的全方位解析](https://hedon.top/2024/03/09/go-struct/) (2024-03-09)
+ - 🤯 [Rust 实战丨HTTPie](https://hedon.top/2024/03/06/rust-action-httpie/) (2024-03-06)
+ - 🍄 [Rust anyhow 简明教程](https://hedon.top/2024/03/05/rust-crate-anyhow/) (2024-03-05)
+ - 🐧 [深入探索 Rust 的 clap 库：命令行解析的艺术](https://hedon.top/2024/03/02/rust-crate-clap/) (2024-03-02)
+ - 🐿️ [Rust reqwest 简明教程](https://hedon.top/2024/03/02/rust-crate-reqwest/) (2024-03-02)
+ - 🍯 [深入浅出 Go 语言的 GPM 模型（Go1.21）](https://hedon.top/2024/01/20/go-gpm/) (2024-01-20)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
