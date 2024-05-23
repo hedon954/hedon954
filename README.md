@@ -24,7 +24,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [xgo 原理探索](https://hedon.top/2024/05/22/go-xgo-explore/) (2024-05-22)
+ - 🎃 [xgo 原理探索](https://hedon.top/2024/05/23/go-xgo-explore/) (2024-05-23)
  - 🐌 [xgo 使用经验](https://hedon.top/2024/05/21/go-xgo-use/) (2024-05-21)
  - 🦁 [Kafka 负载均衡挑战及解决思路](https://hedon.top/2024/05/20/kafka-load-balance/) (2024-05-20)
  - 🍯 [学习记录：用 Go 自制解释器 Monkey](https://hedon.top/2024/05/12/monkey-language/) (2024-05-11)
