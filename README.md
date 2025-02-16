@@ -25,7 +25,7 @@
 
 <!-- BLOG-POST-LIST:START -->
  - 🎃 [在 Go 项目中实现 JWT 用户认证与续期机制](https://hedon.top/2025/02/15/go-action-jwt/) (2025-02-15)
- - 🐌 [Go 中的 Map 与 Slice：深入理解扩容机制与传参行为](https://hedon.top/2025/02/14/go-slice-vs-map/) (2025-02-14)
+ - 🐌 [深入 Go 语言核心：map 和 slice 的传参有什么不同](https://hedon.top/2025/02/14/go-slice-vs-map/) (2025-02-14)
  - 🦁 [读书笔记丨解密 QUIC/HTTP3：未来互联网的基石](https://hedon.top/2025/01/15/book-quic-http3/) (2025-01-15)
  - 🍯 [匠心码道丨01 编写优质代码的十大黄金法则](https://hedon.top/2024/12/12/clean-code-10-rules/) (2024-12-12)
  - 🍭 [KCP 源码分析与原理总结](https://hedon.top/2024/12/01/kcp/) (2024-12-01)
