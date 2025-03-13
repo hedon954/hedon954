@@ -24,16 +24,16 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [读书笔记丨《悟道领域驱动设计》](https://hedon.top/2025/03/11/note-ddd-awareness/) (2025-03-11)
- - 🐌 [Go 1.24 新特性解读：使用 testing/synctest 优雅地测试并发代码](https://hedon.top/2025/03/06/go-lib-synctest/) (2025-03-06)
- - 🦁 [直播系统推拉流原理](https://hedon.top/2025/03/04/live-stream-push-pull/) (2025-03-04)
- - 🍯 [网络数据包的完整旅程：从发送到接收的全过程](https://hedon.top/2025/03/01/net-data-journey/) (2025-03-01)
- - 🍭 [解决方案丨游戏后端中的 Push-ACK 机制设计与内存优化](https://hedon.top/2025/02/27/solution-push-ack/) (2025-02-27)
- - 🤯 [服务监控丨Prometheus 四大数据类型详解](https://hedon.top/2025/02/26/prometheus-data-type/) (2025-02-26)
- - 🍄 [在 Go 项目中实现 JWT 用户认证与续期机制](https://hedon.top/2025/02/15/go-action-jwt/) (2025-02-15)
- - 🐧 [深入 Go 语言核心：map 和 slice 的传参有什么不同](https://hedon.top/2025/02/14/go-slice-vs-map/) (2025-02-14)
- - 🐿️ [读书笔记丨解密 QUIC/HTTP3：未来互联网的基石](https://hedon.top/2025/01/15/book-quic-http3/) (2025-01-15)
- - 🍯 [匠心码道丨01 编写优质代码的十大黄金法则](https://hedon.top/2024/12/12/clean-code-10-rules/) (2024-12-12)<!-- BLOG-POST-LIST:END -->
+ - 🎃 [为什么 OpenTelemetry 的 SDK 中不支持尾采样 Hook？](https://hedon.top/2025/03/13/opentelemetry-tail-sampler/) (2025-03-13)
+ - 🐌 [读书笔记丨《悟道领域驱动设计》](https://hedon.top/2025/03/11/note-ddd-awareness/) (2025-03-11)
+ - 🦁 [Go 1.24 新特性解读：使用 testing/synctest 优雅地测试并发代码](https://hedon.top/2025/03/06/go-lib-synctest/) (2025-03-06)
+ - 🍯 [直播系统推拉流原理](https://hedon.top/2025/03/04/live-stream-push-pull/) (2025-03-04)
+ - 🍭 [网络数据包的完整旅程：从发送到接收的全过程](https://hedon.top/2025/03/01/net-data-journey/) (2025-03-01)
+ - 🤯 [解决方案丨游戏后端中的 Push-ACK 机制设计与内存优化](https://hedon.top/2025/02/27/solution-push-ack/) (2025-02-27)
+ - 🍄 [服务监控丨Prometheus 四大数据类型详解](https://hedon.top/2025/02/26/prometheus-data-type/) (2025-02-26)
+ - 🐧 [在 Go 项目中实现 JWT 用户认证与续期机制](https://hedon.top/2025/02/15/go-action-jwt/) (2025-02-15)
+ - 🐿️ [深入 Go 语言核心：map 和 slice 的传参有什么不同](https://hedon.top/2025/02/14/go-slice-vs-map/) (2025-02-14)
+ - 🍯 [读书笔记丨解密 QUIC/HTTP3：未来互联网的基石](https://hedon.top/2025/01/15/book-quic-http3/) (2025-01-15)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
