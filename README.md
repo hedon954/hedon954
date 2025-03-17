@@ -24,7 +24,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [backend-road](https://hedon.top/2025/03/17/backend-road/) (2025-03-17)
+ - 🎃 [在 Hexo 博客中优雅地集成 Markmap 思维导图](https://hedon.top/2025/03/17/markmap-for-hexo/) (2025-03-17)
  - 🐌 [为什么 OpenTelemetry 的 SDK 中不支持尾采样 Hook？](https://hedon.top/2025/03/13/opentelemetry-tail-sampler/) (2025-03-13)
  - 🦁 [读书笔记丨《悟道领域驱动设计》](https://hedon.top/2025/03/11/note-ddd-awareness/) (2025-03-11)
  - 🍯 [Go 1.24 新特性解读：使用 testing/synctest 优雅地测试并发代码](https://hedon.top/2025/03/06/go-lib-synctest/) (2025-03-06)
