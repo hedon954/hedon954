@@ -24,16 +24,16 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [RAG 技术概览](https://hedon.top/2025/04/13/ai-rag-tech-overview/) (2025-04-13)
- - 🐌 [读书笔记丨《Unit Testing Principles, Practices, and Patterns》](https://hedon.top/2025/04/09/note-unit-testing/) (2025-04-09)
- - 🦁 [读书笔记丨《Unit Testing Principles, Practices, and Patterns》](https://hedon.top/2025/04/09/note-unit-testing-excerpt/) (2025-04-09)
- - 🍯 [一步步推导出 MySQL 数据的底层存储结构](https://hedon.top/2025/04/08/mysql-ibd/) (2025-04-08)
- - 🍭 [Python 知识图谱](https://hedon.top/2025/04/05/python-mindmap/) (2025-04-05)
- - 🤯 [后端开发之路](https://hedon.top/2025/03/17/backend-road/) (2025-03-17)
- - 🍄 [在 Hexo 博客中优雅地集成 Markmap 思维导图](https://hedon.top/2025/03/17/mindmap-for-hexo/) (2025-03-17)
- - 🐧 [为什么 OpenTelemetry 的 SDK 中不支持尾采样 Hook？](https://hedon.top/2025/03/13/opentelemetry-tail-sampler/) (2025-03-13)
- - 🐿️ [读书笔记丨《悟道领域驱动设计》](https://hedon.top/2025/03/11/note-ddd-awareness/) (2025-03-11)
- - 🍯 [Go 1.24 新特性解读：使用 testing/synctest 优雅地测试并发代码](https://hedon.top/2025/03/06/go-lib-synctest/) (2025-03-06)<!-- BLOG-POST-LIST:END -->
+ - 🎃 [Rust 实战丨实现一个 SpinLock](https://hedon.top/2025/05/13/rust-action-spinlock/) (2025-05-13)
+ - 🐌 [读书笔记丨《Rust Atomics and Locks》](https://hedon.top/2025/04/25/note-rust-atomics-and-locks/) (2025-04-25)
+ - 🦁 [RAG 技术概览](https://hedon.top/2025/04/13/ai-rag-tech-overview/) (2025-04-13)
+ - 🍯 [读书笔记丨《Unit Testing Principles, Practices, and Patterns》](https://hedon.top/2025/04/09/note-unit-testing/) (2025-04-09)
+ - 🍭 [读书笔记丨《Unit Testing Principles, Practices, and Patterns》](https://hedon.top/2025/04/09/note-unit-testing-excerpt/) (2025-04-09)
+ - 🤯 [一步步推导出 MySQL 数据的底层存储结构](https://hedon.top/2025/04/08/mysql-ibd/) (2025-04-08)
+ - 🍄 [Python 知识图谱](https://hedon.top/2025/04/05/python-mindmap/) (2025-04-05)
+ - 🐧 [后端开发之路](https://hedon.top/2025/03/17/backend-road/) (2025-03-17)
+ - 🐿️ [在 Hexo 博客中优雅地集成 Markmap 思维导图](https://hedon.top/2025/03/17/mindmap-for-hexo/) (2025-03-17)
+ - 🍯 [为什么 OpenTelemetry 的 SDK 中不支持尾采样 Hook？](https://hedon.top/2025/03/13/opentelemetry-tail-sampler/) (2025-03-13)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
