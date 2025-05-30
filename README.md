@@ -25,7 +25,7 @@
 
 <!-- BLOG-POST-LIST:START -->
  - 🎃 [Rust 实战丨手写一个 oneshot channel](https://hedon.top/2025/05/29/rust-action-oneshot-channel/) (2025-05-29)
- - 🐌 [Rust 实战丨实现一个 SpinLock](https://hedon.top/2025/05/13/rust-action-spinlock/) (2025-05-13)
+ - 🐌 [Rust 实战丨手写一个 SpinLock](https://hedon.top/2025/05/13/rust-action-spinlock/) (2025-05-13)
  - 🦁 [读书笔记丨《Rust Atomics and Locks》](https://hedon.top/2025/04/25/note-rust-atomics-and-locks/) (2025-04-25)
  - 🍯 [RAG 技术概览](https://hedon.top/2025/04/13/ai-rag-tech-overview/) (2025-04-13)
  - 🍭 [读书笔记丨《Unit Testing Principles, Practices, and Patterns》](https://hedon.top/2025/04/09/note-unit-testing/) (2025-04-09)
