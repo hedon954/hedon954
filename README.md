@@ -24,16 +24,16 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [Rust 实战丨手写一个 Arc](https://hedon.top/2025/06/03/rust-action-arc/) (2025-06-03)
- - 🐌 [Rust 实战丨手写一个 oneshot channel](https://hedon.top/2025/05/29/rust-action-oneshot-channel/) (2025-05-29)
- - 🦁 [Rust 实战丨手写一个 SpinLock](https://hedon.top/2025/05/13/rust-action-spinlock/) (2025-05-13)
- - 🍯 [RAG 技术概览](https://hedon.top/2025/04/13/ai-rag-tech-overview/) (2025-04-13)
- - 🍭 [读书笔记丨《Unit Testing Principles, Practices, and Patterns》](https://hedon.top/2025/04/09/note-unit-testing/) (2025-04-09)
- - 🤯 [读书笔记丨《Unit Testing Principles, Practices, and Patterns》](https://hedon.top/2025/04/09/note-unit-testing-excerpt/) (2025-04-09)
- - 🍄 [一步步推导出 MySQL 数据的底层存储结构](https://hedon.top/2025/04/08/mysql-ibd/) (2025-04-08)
- - 🐧 [在 Hexo 博客中优雅地集成 Markmap 思维导图](https://hedon.top/2025/03/17/mindmap-for-hexo/) (2025-03-17)
- - 🐿️ [为什么 OpenTelemetry 的 SDK 中不支持尾采样 Hook？](https://hedon.top/2025/03/13/opentelemetry-tail-sampler/) (2025-03-13)
- - 🍯 [读书笔记丨《悟道领域驱动设计》](https://hedon.top/2025/03/11/note-ddd-awareness/) (2025-03-11)<!-- BLOG-POST-LIST:END -->
+ - 🎃 [Rust 原理丨从处理器角度看原子操作](https://hedon.top/2025/06/05/rust-atomic-in-processor/) (2025-06-05)
+ - 🐌 [Rust 实战丨手写一个 Arc](https://hedon.top/2025/06/03/rust-action-arc/) (2025-06-03)
+ - 🦁 [Rust 实战丨手写一个 oneshot channel](https://hedon.top/2025/05/29/rust-action-oneshot-channel/) (2025-05-29)
+ - 🍯 [Rust 实战丨手写一个 SpinLock](https://hedon.top/2025/05/13/rust-action-spinlock/) (2025-05-13)
+ - 🍭 [RAG 技术概览](https://hedon.top/2025/04/13/ai-rag-tech-overview/) (2025-04-13)
+ - 🤯 [读书笔记丨《Unit Testing Principles, Practices, and Patterns》](https://hedon.top/2025/04/09/note-unit-testing/) (2025-04-09)
+ - 🍄 [读书笔记丨《Unit Testing Principles, Practices, and Patterns》](https://hedon.top/2025/04/09/note-unit-testing-excerpt/) (2025-04-09)
+ - 🐧 [一步步推导出 MySQL 数据的底层存储结构](https://hedon.top/2025/04/08/mysql-ibd/) (2025-04-08)
+ - 🐿️ [在 Hexo 博客中优雅地集成 Markmap 思维导图](https://hedon.top/2025/03/17/mindmap-for-hexo/) (2025-03-17)
+ - 🍯 [为什么 OpenTelemetry 的 SDK 中不支持尾采样 Hook？](https://hedon.top/2025/03/13/opentelemetry-tail-sampler/) (2025-03-13)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
