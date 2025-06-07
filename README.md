@@ -24,7 +24,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [Rust 原理丨从处理器角度看原子操作](https://hedon.top/2025/06/05/rust-atomic-in-processor/) (2025-06-05)
+ - 🎃 [Rust 原理丨从汇编角度看原子操作](https://hedon.top/2025/06/05/rust-atomic-in-processor/) (2025-06-05)
  - 🐌 [Rust 实战丨手写一个 Arc](https://hedon.top/2025/06/03/rust-action-arc/) (2025-06-03)
  - 🦁 [Rust 实战丨手写一个 oneshot channel](https://hedon.top/2025/05/29/rust-action-oneshot-channel/) (2025-05-29)
  - 🍯 [Rust 实战丨手写一个 SpinLock](https://hedon.top/2025/05/13/rust-action-spinlock/) (2025-05-13)
