@@ -31,7 +31,7 @@
  - 🍭 [Rust 实战丨手写一个 SpinLock](https://hedon.top/2025/05/13/rust-action-spinlock/) (2025-05-13)
  - 🤯 [RAG 技术概览](https://hedon.top/2025/04/13/ai-rag-tech-overview/) (2025-04-13)
  - 🍄 [读书笔记丨《Unit Testing Principles, Practices, and Patterns》](https://hedon.top/2025/04/09/note-unit-testing/) (2025-04-09)
- - 🐧 [读书笔记丨《Unit Testing Principles, Practices, and Patterns》](https://hedon.top/2025/04/09/note-unit-testing-excerpt/) (2025-04-09)
+ - 🐧 [书籍摘抄丨《Unit Testing Principles, Practices, and Patterns》](https://hedon.top/2025/04/09/note-unit-testing-excerpt/) (2025-04-09)
  - 🐿️ [一步步推导出 MySQL 数据的底层存储结构](https://hedon.top/2025/04/08/mysql-ibd/) (2025-04-08)
  - 🍯 [在 Hexo 博客中优雅地集成 Markmap 思维导图](https://hedon.top/2025/03/17/mindmap-for-hexo/) (2025-03-17)<!-- BLOG-POST-LIST:END -->
 
