@@ -24,16 +24,16 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [读书笔记丨《Rust Atomics and Locks》](https://hedon.top/2025/06/12/note-rust-atomics-and-locks/) (2025-06-12)
- - 🐌 [Rust 实战丨手写一个 RwLock](https://hedon.top/2025/06/11/rust-action-rwlock/) (2025-06-11)
- - 🦁 [Rust 实战丨手写一个 Condvar](https://hedon.top/2025/06/09/rust-action-condvar/) (2025-06-09)
- - 🍯 [Rust 实战丨手写一个 Mutex](https://hedon.top/2025/06/09/rust-action-mutex/) (2025-06-09)
- - 🍭 [Rust 原理丨操作系统并发原语](https://hedon.top/2025/06/08/rust-os-primitives/) (2025-06-08)
- - 🤯 [Rust 原理丨从汇编角度看原子操作](https://hedon.top/2025/06/05/rust-atomic-in-processor/) (2025-06-05)
- - 🍄 [Rust 实战丨手写一个 Arc](https://hedon.top/2025/06/03/rust-action-arc/) (2025-06-03)
- - 🐧 [Rust 实战丨手写一个 oneshot channel](https://hedon.top/2025/05/29/rust-action-oneshot-channel/) (2025-05-29)
- - 🐿️ [Rust 实战丨手写一个 SpinLock](https://hedon.top/2025/05/13/rust-action-spinlock/) (2025-05-13)
- - 🍯 [RAG 技术概览](https://hedon.top/2025/04/13/ai-rag-tech-overview/) (2025-04-13)<!-- BLOG-POST-LIST:END -->
+ - 🎃 [Q&amp;A丨在 AI 时代，还有必要学习底层技术吗？](https://hedon.top/2025/06/17/aq-should-learn-underlying-principles-in-ai-era/) (2025-06-17)
+ - 🐌 [读书笔记丨《Rust Atomics and Locks》](https://hedon.top/2025/06/12/note-rust-atomics-and-locks/) (2025-06-12)
+ - 🦁 [Rust 实战丨手写一个 RwLock](https://hedon.top/2025/06/11/rust-action-rwlock/) (2025-06-11)
+ - 🍯 [Rust 实战丨手写一个 Condvar](https://hedon.top/2025/06/09/rust-action-condvar/) (2025-06-09)
+ - 🍭 [Rust 实战丨手写一个 Mutex](https://hedon.top/2025/06/09/rust-action-mutex/) (2025-06-09)
+ - 🤯 [Rust 原理丨操作系统并发原语](https://hedon.top/2025/06/08/rust-os-primitives/) (2025-06-08)
+ - 🍄 [Rust 原理丨从汇编角度看原子操作](https://hedon.top/2025/06/05/rust-atomic-in-processor/) (2025-06-05)
+ - 🐧 [Rust 实战丨手写一个 Arc](https://hedon.top/2025/06/03/rust-action-arc/) (2025-06-03)
+ - 🐿️ [Rust 实战丨手写一个 oneshot channel](https://hedon.top/2025/05/29/rust-action-oneshot-channel/) (2025-05-29)
+ - 🍯 [Rust 实战丨手写一个 SpinLock](https://hedon.top/2025/05/13/rust-action-spinlock/) (2025-05-13)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
