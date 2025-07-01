@@ -25,8 +25,8 @@
 
 <!-- BLOG-POST-LIST:START -->
  - 🎃 [Go 底层原理丨深度剖析 Gin 框架核心机制：从 HTTP 请求生命周期到高性能设计哲学](https://hedon.top/2025/06/30/go-gin/) (2025-06-30)
- - 🐌 [FOSA丨01丨软件架构概述](https://hedon.top/2025/06/26/fosa-ch1/) (2025-06-26)
- - 🦁 [FOSA丨02丨架构思维](https://hedon.top/2025/06/26/fosa-ch2/) (2025-06-26)
+ - 🐌 [FOSA丨02丨架构思维](https://hedon.top/2025/06/26/fosa-ch2/) (2025-06-26)
+ - 🦁 [FOSA丨01丨软件架构概述](https://hedon.top/2025/06/26/fosa-ch1/) (2025-06-26)
  - 🍯 [Q&amp;A丨在 AI 时代，如何应对技术焦虑？](https://hedon.top/2025/06/21/qa-how-to-deal-with-tech-anxiety-in-ai-era/) (2025-06-20)
  - 🍭 [Q&amp;A丨在 AI 时代，还有必要学习底层技术吗？](https://hedon.top/2025/06/17/qa-should-learn-underlying-principles-in-ai-era/) (2025-06-17)
  - 🤯 [读书笔记丨《Rust Atomics and Locks》](https://hedon.top/2025/06/12/note-rust-atomics-and-locks/) (2025-06-12)
