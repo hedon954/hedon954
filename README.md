@@ -24,16 +24,16 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [FOSA丨06丨评估和管理架构特性](https://hedon.top/2025/07/07/fosa-ch6/) (2025-07-07)
- - 🐌 [FOSA丨05丨识别架构特征](https://hedon.top/2025/07/04/fosa-ch5/) (2025-07-04)
- - 🦁 [FOSA丨04丨架构特性定义](https://hedon.top/2025/07/03/fosa-ch4/) (2025-07-03)
- - 🍯 [RAG 全栈技术](https://hedon.top/2025/07/03/ai-rag-tech-complete/) (2025-07-03)
- - 🍭 [FOSA丨03丨模块化](https://hedon.top/2025/07/02/fosa-ch3/) (2025-07-02)
- - 🤯 [FOSA丨02丨架构思维](https://hedon.top/2025/07/01/fosa-ch2/) (2025-07-01)
- - 🍄 [Go 底层原理丨深度剖析 Gin 框架核心机制：从 HTTP 请求生命周期到高性能设计哲学](https://hedon.top/2025/06/30/go-gin/) (2025-06-30)
- - 🐧 [FOSA丨01丨软件架构概述](https://hedon.top/2025/06/26/fosa-ch1/) (2025-06-26)
- - 🐿️ [Q&amp;A丨在 AI 时代，如何应对技术焦虑？](https://hedon.top/2025/06/21/qa-how-to-deal-with-tech-anxiety-in-ai-era/) (2025-06-20)
- - 🍯 [Q&amp;A丨在 AI 时代，还有必要学习底层技术吗？](https://hedon.top/2025/06/17/qa-should-learn-underlying-principles-in-ai-era/) (2025-06-17)<!-- BLOG-POST-LIST:END -->
+ - 🎃 [课程笔记丨《手把手带你写一个 Web 框架》](https://hedon.top/2025/07/07/note-write-a-web-framework/) (2025-07-07)
+ - 🐌 [FOSA丨06丨评估和管理架构特性](https://hedon.top/2025/07/07/fosa-ch6/) (2025-07-07)
+ - 🦁 [FOSA丨05丨识别架构特征](https://hedon.top/2025/07/04/fosa-ch5/) (2025-07-04)
+ - 🍯 [FOSA丨04丨架构特性定义](https://hedon.top/2025/07/03/fosa-ch4/) (2025-07-03)
+ - 🍭 [RAG 全栈技术](https://hedon.top/2025/07/03/ai-rag-tech-complete/) (2025-07-03)
+ - 🤯 [FOSA丨03丨模块化](https://hedon.top/2025/07/02/fosa-ch3/) (2025-07-02)
+ - 🍄 [FOSA丨02丨架构思维](https://hedon.top/2025/07/01/fosa-ch2/) (2025-07-01)
+ - 🐧 [Go 底层原理丨深度剖析 Gin 框架核心机制：从 HTTP 请求生命周期到高性能设计哲学](https://hedon.top/2025/06/30/go-gin/) (2025-06-30)
+ - 🐿️ [FOSA丨01丨软件架构概述](https://hedon.top/2025/06/26/fosa-ch1/) (2025-06-26)
+ - 🍯 [Q&amp;A丨在 AI 时代，如何应对技术焦虑？](https://hedon.top/2025/06/21/qa-how-to-deal-with-tech-anxiety-in-ai-era/) (2025-06-20)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
