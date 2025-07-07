@@ -24,7 +24,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [FOSA丨06丨衡量和管理架构特性](https://hedon.top/2025/07/07/fosa-ch6/) (2025-07-07)
+ - 🎃 [FOSA丨06丨评估和管理架构特性](https://hedon.top/2025/07/07/fosa-ch6/) (2025-07-07)
  - 🐌 [FOSA丨05丨识别架构特征](https://hedon.top/2025/07/04/fosa-ch5/) (2025-07-04)
  - 🦁 [FOSA丨04丨架构特性定义](https://hedon.top/2025/07/03/fosa-ch4/) (2025-07-03)
  - 🍯 [RAG 全栈技术](https://hedon.top/2025/07/03/ai-rag-tech-complete/) (2025-07-03)
