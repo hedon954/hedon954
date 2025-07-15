@@ -24,16 +24,16 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [FOSA丨10丨分层架构](https://hedon.top/2025/07/10/fosa-ch10/) (2025-07-10)
- - 🐌 [FOSA丨09丨架构风格基础](https://hedon.top/2025/07/10/fosa-ch9/) (2025-07-10)
- - 🦁 [FOSA丨08丨组件思维](https://hedon.top/2025/07/09/fosa-ch8/) (2025-07-09)
- - 🍯 [Rust 入门丨02 闭包](https://hedon.top/2025/07/08/rust-02-closure/) (2025-07-08)
- - 🍭 [FOSA丨07丨架构特性范围](https://hedon.top/2025/07/08/fosa-ch7/) (2025-07-08)
- - 🤯 [课程笔记丨《手把手带你写一个 Web 框架》](https://hedon.top/2025/07/07/note-write-a-web-framework/) (2025-07-07)
- - 🍄 [FOSA丨06丨评估和管理架构特性](https://hedon.top/2025/07/07/fosa-ch6/) (2025-07-07)
- - 🐧 [FOSA丨05丨识别架构特征](https://hedon.top/2025/07/04/fosa-ch5/) (2025-07-04)
- - 🐿️ [FOSA丨04丨架构特性定义](https://hedon.top/2025/07/03/fosa-ch4/) (2025-07-03)
- - 🍯 [RAG 全栈技术](https://hedon.top/2025/07/03/ai-rag-tech-complete/) (2025-07-03)<!-- BLOG-POST-LIST:END -->
+ - 🎃 [FOSA丨11丨管道架构](https://hedon.top/2025/07/15/fosa-ch11/) (2025-07-15)
+ - 🐌 [FOSA丨10丨分层架构](https://hedon.top/2025/07/14/fosa-ch10/) (2025-07-14)
+ - 🦁 [FOSA丨09丨架构风格基础](https://hedon.top/2025/07/10/fosa-ch9/) (2025-07-10)
+ - 🍯 [FOSA丨08丨组件思维](https://hedon.top/2025/07/09/fosa-ch8/) (2025-07-09)
+ - 🍭 [Rust 入门丨02 闭包](https://hedon.top/2025/07/08/rust-02-closure/) (2025-07-08)
+ - 🤯 [FOSA丨07丨架构特性范围](https://hedon.top/2025/07/08/fosa-ch7/) (2025-07-08)
+ - 🍄 [课程笔记丨《手把手带你写一个 Web 框架》](https://hedon.top/2025/07/07/note-write-a-web-framework/) (2025-07-07)
+ - 🐧 [FOSA丨06丨评估和管理架构特性](https://hedon.top/2025/07/07/fosa-ch6/) (2025-07-07)
+ - 🐿️ [FOSA丨05丨识别架构特征](https://hedon.top/2025/07/04/fosa-ch5/) (2025-07-04)
+ - 🍯 [FOSA丨04丨架构特性定义](https://hedon.top/2025/07/03/fosa-ch4/) (2025-07-03)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
