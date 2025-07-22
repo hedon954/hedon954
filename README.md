@@ -24,16 +24,16 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [FOSA丨15丨空间架构](https://hedon.top/2025/07/21/fosa-ch15/) (2025-07-21)
- - 🐌 [FOSA丨14丨事件驱动架构](https://hedon.top/2025/07/18/fosa-ch14/) (2025-07-18)
- - 🦁 [FOSA丨13丨基于服务的架构](https://hedon.top/2025/07/17/fosa-ch13/) (2025-07-17)
- - 🍯 [FOSA丨12丨微核架构](https://hedon.top/2025/07/16/fosa-ch12/) (2025-07-16)
- - 🍭 [FOSA丨11丨管道架构](https://hedon.top/2025/07/15/fosa-ch11/) (2025-07-15)
- - 🤯 [FOSA丨10丨分层架构](https://hedon.top/2025/07/14/fosa-ch10/) (2025-07-14)
- - 🍄 [FOSA丨09丨架构风格基础](https://hedon.top/2025/07/10/fosa-ch9/) (2025-07-10)
- - 🐧 [FOSA丨08丨组件思维](https://hedon.top/2025/07/09/fosa-ch8/) (2025-07-09)
- - 🐿️ [Rust 入门丨02 闭包](https://hedon.top/2025/07/08/rust-02-closure/) (2025-07-08)
- - 🍯 [FOSA丨07丨架构特性范围](https://hedon.top/2025/07/08/fosa-ch7/) (2025-07-08)<!-- BLOG-POST-LIST:END -->
+ - 🎃 [FOSA丨16丨面向服务架构](https://hedon.top/2025/07/22/fosa-ch16/) (2025-07-22)
+ - 🐌 [FOSA丨15丨空间架构](https://hedon.top/2025/07/21/fosa-ch15/) (2025-07-21)
+ - 🦁 [FOSA丨14丨事件驱动架构](https://hedon.top/2025/07/18/fosa-ch14/) (2025-07-18)
+ - 🍯 [FOSA丨13丨基于服务的架构](https://hedon.top/2025/07/17/fosa-ch13/) (2025-07-17)
+ - 🍭 [FOSA丨12丨微核架构](https://hedon.top/2025/07/16/fosa-ch12/) (2025-07-16)
+ - 🤯 [FOSA丨11丨管道架构](https://hedon.top/2025/07/15/fosa-ch11/) (2025-07-15)
+ - 🍄 [FOSA丨10丨分层架构](https://hedon.top/2025/07/14/fosa-ch10/) (2025-07-14)
+ - 🐧 [FOSA丨09丨架构风格基础](https://hedon.top/2025/07/10/fosa-ch9/) (2025-07-10)
+ - 🐿️ [FOSA丨08丨组件思维](https://hedon.top/2025/07/09/fosa-ch8/) (2025-07-09)
+ - 🍯 [Rust 入门丨02 闭包](https://hedon.top/2025/07/08/rust-02-closure/) (2025-07-08)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
