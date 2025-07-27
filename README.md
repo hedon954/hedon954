@@ -24,16 +24,16 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [读书笔记丨《Fundamentals of Software Architecture》](https://hedon.top/2025/07/24/note-fosa/) (2025-07-24)
- - 🐌 [FOSA丨17丨微服务架构](https://hedon.top/2025/07/23/fosa/fosa-ch17/) (2025-07-23)
- - 🦁 [FOSA丨16丨面向服务架构](https://hedon.top/2025/07/22/fosa/fosa-ch16/) (2025-07-22)
- - 🍯 [FOSA丨15丨空间架构](https://hedon.top/2025/07/21/fosa/fosa-ch15/) (2025-07-21)
- - 🍭 [FOSA丨14丨事件驱动架构](https://hedon.top/2025/07/18/fosa/fosa-ch14/) (2025-07-18)
- - 🤯 [FOSA丨13丨基于服务的架构](https://hedon.top/2025/07/17/fosa/fosa-ch13/) (2025-07-17)
- - 🍄 [FOSA丨12丨微核架构](https://hedon.top/2025/07/16/fosa/fosa-ch12/) (2025-07-16)
- - 🐧 [FOSA丨11丨管道架构](https://hedon.top/2025/07/15/fosa/fosa-ch11/) (2025-07-15)
- - 🐿️ [FOSA丨10丨分层架构](https://hedon.top/2025/07/14/fosa/fosa-ch10/) (2025-07-14)
- - 🍯 [FOSA丨09丨架构风格基础](https://hedon.top/2025/07/10/fosa/fosa-ch9/) (2025-07-10)<!-- BLOG-POST-LIST:END -->
+ - 🎃 [大白话解释反向传播算法](https://hedon.top/2025/07/27/back-propagation/) (2025-07-27)
+ - 🐌 [读书笔记丨《Fundamentals of Software Architecture》](https://hedon.top/2025/07/24/note-fosa/) (2025-07-24)
+ - 🦁 [FOSA丨17丨微服务架构](https://hedon.top/2025/07/23/fosa/fosa-ch17/) (2025-07-23)
+ - 🍯 [FOSA丨16丨面向服务架构](https://hedon.top/2025/07/22/fosa/fosa-ch16/) (2025-07-22)
+ - 🍭 [FOSA丨15丨空间架构](https://hedon.top/2025/07/21/fosa/fosa-ch15/) (2025-07-21)
+ - 🤯 [FOSA丨14丨事件驱动架构](https://hedon.top/2025/07/18/fosa/fosa-ch14/) (2025-07-18)
+ - 🍄 [FOSA丨13丨基于服务的架构](https://hedon.top/2025/07/17/fosa/fosa-ch13/) (2025-07-17)
+ - 🐧 [FOSA丨12丨微核架构](https://hedon.top/2025/07/16/fosa/fosa-ch12/) (2025-07-16)
+ - 🐿️ [FOSA丨11丨管道架构](https://hedon.top/2025/07/15/fosa/fosa-ch11/) (2025-07-15)
+ - 🍯 [FOSA丨10丨分层架构](https://hedon.top/2025/07/14/fosa/fosa-ch10/) (2025-07-14)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
