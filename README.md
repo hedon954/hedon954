@@ -24,16 +24,16 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [大白话解释交叉熵损失](https://hedon.top/2025/08/13/llm/cross-entropy-loss/) (2025-08-13)
- - 🐌 [大白话解释 GPT 架构中的权重共享](https://hedon.top/2025/08/13/llm/weight-typing/) (2025-08-13)
- - 🦁 [Rust 多态的两种实现：Trait Bound 与 Trait Object 深度解析](https://hedon.top/2025/08/05/rust/rust-polymorphism/) (2025-08-05)
- - 🍯 [大白话解释反向传播算法](https://hedon.top/2025/07/27/llm/back-propagation/) (2025-07-27)
- - 🍭 [读书笔记丨《Fundamentals of Software Architecture》](https://hedon.top/2025/07/24/note-fosa/) (2025-07-24)
- - 🤯 [FOSA丨17丨微服务架构](https://hedon.top/2025/07/23/fosa/fosa-ch17/) (2025-07-23)
- - 🍄 [FOSA丨16丨面向服务架构](https://hedon.top/2025/07/22/fosa/fosa-ch16/) (2025-07-22)
- - 🐧 [FOSA丨15丨空间架构](https://hedon.top/2025/07/21/fosa/fosa-ch15/) (2025-07-21)
- - 🐿️ [FOSA丨14丨事件驱动架构](https://hedon.top/2025/07/18/fosa/fosa-ch14/) (2025-07-18)
- - 🍯 [FOSA丨13丨基于服务的架构](https://hedon.top/2025/07/17/fosa/fosa-ch13/) (2025-07-17)<!-- BLOG-POST-LIST:END -->
+ - 🎃 [一次由公网流出带宽飙升引发的服务器性能排查实录](https://hedon.top/2025/08/15/record-of-abnormal-investigation-of-public-network-traffic/) (2025-08-15)
+ - 🐌 [大白话解释交叉熵损失](https://hedon.top/2025/08/13/llm/cross-entropy-loss/) (2025-08-13)
+ - 🦁 [大白话解释 GPT 架构中的权重共享](https://hedon.top/2025/08/13/llm/weight-typing/) (2025-08-13)
+ - 🍯 [Rust 多态的两种实现：Trait Bound 与 Trait Object 深度解析](https://hedon.top/2025/08/05/rust/rust-polymorphism/) (2025-08-05)
+ - 🍭 [大白话解释反向传播算法](https://hedon.top/2025/07/27/llm/back-propagation/) (2025-07-27)
+ - 🤯 [读书笔记丨《Fundamentals of Software Architecture》](https://hedon.top/2025/07/24/note-fosa/) (2025-07-24)
+ - 🍄 [FOSA丨17丨微服务架构](https://hedon.top/2025/07/23/fosa/fosa-ch17/) (2025-07-23)
+ - 🐧 [FOSA丨16丨面向服务架构](https://hedon.top/2025/07/22/fosa/fosa-ch16/) (2025-07-22)
+ - 🐿️ [FOSA丨15丨空间架构](https://hedon.top/2025/07/21/fosa/fosa-ch15/) (2025-07-21)
+ - 🍯 [FOSA丨14丨事件驱动架构](https://hedon.top/2025/07/18/fosa/fosa-ch14/) (2025-07-18)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
