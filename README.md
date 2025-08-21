@@ -24,16 +24,16 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [Redis 数据类型丨List丨从双向链表到 Listpack 的演进之路 &lpar;基于 Redis 8.2.1 源码&rpar;](https://hedon.top/2025/08/20/redis/redis-datatype-list/) (2025-08-20)
- - 🐌 [告别死记硬背：一份真正理解 PyTorch 核心设计的指南](https://hedon.top/2025/08/18/llm/pytorch/) (2025-08-18)
- - 🦁 [从 ECB 到 GCM：理解加密模式的演进](https://hedon.top/2025/08/15/encryption-mode/) (2025-08-15)
- - 🍯 [一次由公网流出带宽飙升引发的服务器性能排查实录](https://hedon.top/2025/08/15/record-of-abnormal-investigation-of-public-network-traffic/) (2025-08-15)
- - 🍭 [大白话解释交叉熵损失](https://hedon.top/2025/08/13/llm/cross-entropy-loss/) (2025-08-13)
- - 🤯 [大白话解释 GPT 架构中的权重共享](https://hedon.top/2025/08/13/llm/weight-typing/) (2025-08-13)
- - 🍄 [Rust 多态的两种实现：Trait Bound 与 Trait Object 深度解析](https://hedon.top/2025/08/05/rust/rust-polymorphism/) (2025-08-05)
- - 🐧 [大白话解释反向传播算法](https://hedon.top/2025/07/27/llm/back-propagation/) (2025-07-27)
- - 🐿️ [读书笔记丨《Fundamentals of Software Architecture》](https://hedon.top/2025/07/24/note-fosa/) (2025-07-24)
- - 🍯 [FOSA丨17丨微服务架构](https://hedon.top/2025/07/23/fosa/fosa-ch17/) (2025-07-23)<!-- BLOG-POST-LIST:END -->
+ - 🎃 [模型训练核心技巧：学习率预热、余弦衰减与梯度裁剪](https://hedon.top/2025/08/21/llm/guide-to-lr-warmup-cosine-annealing-gradient-clipping/) (2025-08-21)
+ - 🐌 [Redis 数据类型丨List丨从双向链表到 Listpack 的演进之路 &lpar;基于 Redis 8.2.1 源码&rpar;](https://hedon.top/2025/08/20/redis/redis-datatype-list/) (2025-08-20)
+ - 🦁 [告别死记硬背：一份真正理解 PyTorch 核心设计的指南](https://hedon.top/2025/08/18/llm/pytorch/) (2025-08-18)
+ - 🍯 [从 ECB 到 GCM：理解加密模式的演进](https://hedon.top/2025/08/15/encryption-mode/) (2025-08-15)
+ - 🍭 [一次由公网流出带宽飙升引发的服务器性能排查实录](https://hedon.top/2025/08/15/record-of-abnormal-investigation-of-public-network-traffic/) (2025-08-15)
+ - 🤯 [大白话解释交叉熵损失](https://hedon.top/2025/08/13/llm/cross-entropy-loss/) (2025-08-13)
+ - 🍄 [大白话解释 GPT 架构中的权重共享](https://hedon.top/2025/08/13/llm/weight-typing/) (2025-08-13)
+ - 🐧 [Rust 多态的两种实现：Trait Bound 与 Trait Object 深度解析](https://hedon.top/2025/08/05/rust/rust-polymorphism/) (2025-08-05)
+ - 🐿️ [大白话解释反向传播算法](https://hedon.top/2025/07/27/llm/back-propagation/) (2025-07-27)
+ - 🍯 [读书笔记丨《Fundamentals of Software Architecture》](https://hedon.top/2025/07/24/note-fosa/) (2025-07-24)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
