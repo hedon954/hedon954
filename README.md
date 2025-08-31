@@ -24,7 +24,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [读书笔记丨从零构建大语言模型](https://hedon.top/2025/08/30/llm/note-llm-from-scratch/) (2025-08-30)
+ - 🎃 [读书笔记丨《从零构建大语言模型》](https://hedon.top/2025/08/30/llm/note-llm-from-scratch/) (2025-08-30)
  - 🐌 [优雅重启的范式转移：从 tableflip 到 Kubernetes 的 Go 服务升级终极指南](https://hedon.top/2025/08/30/graceful-restart-from-tableflip-to-k8s/) (2025-08-30)
  - 🦁 [Redis 数据类型丨String丨从第一性原理看 Redis 字符串的设计哲学 &lpar;基于 Redis 8.2.1 源码&rpar;](https://hedon.top/2025/08/25/redis/redis-datatype-string/) (2025-08-25)
  - 🍯 [模型训练核心技巧：学习率预热、余弦衰减与梯度裁剪](https://hedon.top/2025/08/21/llm/guide-to-lr-warmup-cosine-annealing-gradient-clipping/) (2025-08-21)
