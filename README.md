@@ -24,16 +24,16 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [读书笔记丨《上头Obsidian：手把手教你用AI做好知识管理》](https://hedon.top/2025/10/14/note/note-obsidian/) (2025-10-14)
- - 🐌 [一次由 MySQL Gap 锁导致的阻塞排查实录](https://hedon.top/2025/09/23/record-of-mysql-gap-lock/) (2025-09-23)
- - 🦁 [Redis 数据类型丨Sorted Set丨listpack vs. skiplist+dict](https://hedon.top/2025/09/18/redis/redis-datatype-sorted-set/) (2025-09-18)
- - 🍯 [Redis 数据类型丨Hash&amp;Set](https://hedon.top/2025/09/08/redis/redis-datatype-hash-and-set/) (2025-09-08)
- - 🍭 [Q&amp;A丨AI 视角下的后端技术重塑](https://hedon.top/2025/09/05/qa/qa-traditional-backend-to-ai-engineer/) (2025-09-05)
- - 🤯 [读书笔记丨《从零构建大语言模型》](https://hedon.top/2025/08/30/llm/note-llm-from-scratch/) (2025-08-30)
- - 🍄 [优雅重启的范式转移：从 tableflip 到 Kubernetes 的 Go 服务升级终极指南](https://hedon.top/2025/08/30/graceful-restart-from-tableflip-to-k8s/) (2025-08-30)
- - 🐧 [Redis 数据类型丨String丨从第一性原理看 Redis 字符串的设计哲学 &lpar;基于 Redis 8.2.1 源码&rpar;](https://hedon.top/2025/08/25/redis/redis-datatype-string/) (2025-08-25)
- - 🐿️ [模型训练核心技巧：学习率预热、余弦衰减与梯度裁剪](https://hedon.top/2025/08/21/llm/guide-to-lr-warmup-cosine-annealing-gradient-clipping/) (2025-08-21)
- - 🍯 [Redis 数据类型丨List丨从双向链表到 Listpack 的演进之路 &lpar;基于 Redis 8.2.1 源码&rpar;](https://hedon.top/2025/08/20/redis/redis-datatype-list/) (2025-08-20)<!-- BLOG-POST-LIST:END -->
+ - 🎃 [三年工作复盘丨技术篇：软件工程是什么丨（一）管理复杂度](https://hedon.top/2025/11/14/first-job-review-01-tech-01-manager-complexity/) (2025-11-14)
+ - 🐌 [读书笔记丨《上头Obsidian：手把手教你用AI做好知识管理》](https://hedon.top/2025/10/14/note/note-obsidian/) (2025-10-14)
+ - 🦁 [一次由 MySQL Gap 锁导致的阻塞排查实录](https://hedon.top/2025/09/23/record-of-mysql-gap-lock/) (2025-09-23)
+ - 🍯 [Redis 数据类型丨Sorted Set丨listpack vs. skiplist+dict](https://hedon.top/2025/09/18/redis/redis-datatype-sorted-set/) (2025-09-18)
+ - 🍭 [Redis 数据类型丨Hash&amp;Set](https://hedon.top/2025/09/08/redis/redis-datatype-hash-and-set/) (2025-09-08)
+ - 🤯 [Q&amp;A丨AI 视角下的后端技术重塑](https://hedon.top/2025/09/05/qa/qa-traditional-backend-to-ai-engineer/) (2025-09-05)
+ - 🍄 [读书笔记丨《从零构建大语言模型》](https://hedon.top/2025/08/30/llm/note-llm-from-scratch/) (2025-08-30)
+ - 🐧 [优雅重启的范式转移：从 tableflip 到 Kubernetes 的 Go 服务升级终极指南](https://hedon.top/2025/08/30/graceful-restart-from-tableflip-to-k8s/) (2025-08-30)
+ - 🐿️ [Redis 数据类型丨String丨从第一性原理看 Redis 字符串的设计哲学 &lpar;基于 Redis 8.2.1 源码&rpar;](https://hedon.top/2025/08/25/redis/redis-datatype-string/) (2025-08-25)
+ - 🍯 [模型训练核心技巧：学习率预热、余弦衰减与梯度裁剪](https://hedon.top/2025/08/21/llm/guide-to-lr-warmup-cosine-annealing-gradient-clipping/) (2025-08-21)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
