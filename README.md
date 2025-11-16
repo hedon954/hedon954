@@ -24,16 +24,16 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [Go 底层原理丨map（非 swiss 版本）](https://hedon.top/2025/11/16/go/go-map-no-swiss/) (2025-11-16)
- - 🐌 [Go 底层原理丨slice 从第一性原理到实现细节](https://hedon.top/2025/11/16/go/go-slice/) (2025-11-16)
- - 🦁 [三年工作复盘丨技术篇：软件工程是什么丨（一）管理复杂度](https://hedon.top/2025/11/14/first-job-review-01-tech-01-manager-complexity/) (2025-11-14)
- - 🍯 [读书笔记丨《上头Obsidian：手把手教你用AI做好知识管理》](https://hedon.top/2025/10/14/note/note-obsidian/) (2025-10-14)
- - 🍭 [一次由 MySQL Gap 锁导致的阻塞排查实录](https://hedon.top/2025/09/23/record-of-mysql-gap-lock/) (2025-09-23)
- - 🤯 [Redis 数据类型丨Sorted Set丨listpack vs. skiplist+dict](https://hedon.top/2025/09/18/redis/redis-datatype-sorted-set/) (2025-09-18)
- - 🍄 [Redis 数据类型丨Hash&amp;Set](https://hedon.top/2025/09/08/redis/redis-datatype-hash-and-set/) (2025-09-08)
- - 🐧 [Q&amp;A丨AI 视角下的后端技术重塑](https://hedon.top/2025/09/05/qa/qa-traditional-backend-to-ai-engineer/) (2025-09-05)
- - 🐿️ [读书笔记丨《从零构建大语言模型》](https://hedon.top/2025/08/30/llm/note-llm-from-scratch/) (2025-08-30)
- - 🍯 [优雅重启的范式转移：从 tableflip 到 Kubernetes 的 Go 服务升级终极指南](https://hedon.top/2025/08/30/graceful-restart-from-tableflip-to-k8s/) (2025-08-30)<!-- BLOG-POST-LIST:END -->
+ - 🎃 [Go 底层原理丨map（Swiss Table 版本）](https://hedon.top/2025/11/16/go/go-map-swiss/) (2025-11-16)
+ - 🐌 [Go 底层原理丨map（非 swiss 版本）](https://hedon.top/2025/11/16/go/go-map-no-swiss/) (2025-11-16)
+ - 🦁 [Go 底层原理丨slice 从第一性原理到实现细节](https://hedon.top/2025/11/16/go/go-slice/) (2025-11-16)
+ - 🍯 [三年工作复盘丨技术篇：软件工程是什么丨（一）管理复杂度](https://hedon.top/2025/11/14/first-job-review-01-tech-01-manager-complexity/) (2025-11-14)
+ - 🍭 [读书笔记丨《上头Obsidian：手把手教你用AI做好知识管理》](https://hedon.top/2025/10/14/note/note-obsidian/) (2025-10-14)
+ - 🤯 [一次由 MySQL Gap 锁导致的阻塞排查实录](https://hedon.top/2025/09/23/record-of-mysql-gap-lock/) (2025-09-23)
+ - 🍄 [Redis 数据类型丨Sorted Set丨listpack vs. skiplist+dict](https://hedon.top/2025/09/18/redis/redis-datatype-sorted-set/) (2025-09-18)
+ - 🐧 [Redis 数据类型丨Hash&amp;Set](https://hedon.top/2025/09/08/redis/redis-datatype-hash-and-set/) (2025-09-08)
+ - 🐿️ [Q&amp;A丨AI 视角下的后端技术重塑](https://hedon.top/2025/09/05/qa/qa-traditional-backend-to-ai-engineer/) (2025-09-05)
+ - 🍯 [读书笔记丨《从零构建大语言模型》](https://hedon.top/2025/08/30/llm/note-llm-from-scratch/) (2025-08-30)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
