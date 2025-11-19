@@ -24,7 +24,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [Go 底层原理丨垃圾回收](https://hedon.top/2025/11/17/go/go-gc/) (2025-11-17)
+ - 🎃 [Go 底层原理丨垃圾回收（三色标记法）](https://hedon.top/2025/11/17/go/go-gc/) (2025-11-17)
  - 🐌 [Go 底层原理丨内存模型](https://hedon.top/2025/11/17/go/go-memory-model/) (2025-11-17)
  - 🦁 [Go 底层原理丨interface](https://hedon.top/2025/11/17/go/go-interface/) (2025-11-17)
  - 🍯 [Go 底层原理丨map（Swiss Table 版本）](https://hedon.top/2025/11/16/go/go-map-swiss/) (2025-11-16)
