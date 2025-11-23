@@ -24,16 +24,16 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [Go 底层原理丨channel](https://hedon.top/2025/11/22/go/go-channel/) (2025-11-22)
- - 🐌 [Go 底层原理丨锁](https://hedon.top/2025/11/21/go/go-lock/) (2025-11-21)
- - 🦁 [Go 底层原理丨垃圾回收（green tea gc）](https://hedon.top/2025/11/19/go/go-gc-green-tea-gc/) (2025-11-19)
- - 🍯 [Go 底层原理丨垃圾回收（三色标记法）](https://hedon.top/2025/11/17/go/go-gc-tri-color-marking/) (2025-11-17)
- - 🍭 [Go 底层原理丨内存模型](https://hedon.top/2025/11/17/go/go-memory-model/) (2025-11-17)
- - 🤯 [Go 底层原理丨interface](https://hedon.top/2025/11/17/go/go-interface/) (2025-11-17)
- - 🍄 [Go 底层原理丨map（Swiss Table 版本）](https://hedon.top/2025/11/16/go/go-map-swiss/) (2025-11-16)
- - 🐧 [Go 底层原理丨map（非 swiss 版本）](https://hedon.top/2025/11/16/go/go-map-no-swiss/) (2025-11-16)
- - 🐿️ [Go 底层原理丨slice 从第一性原理到实现细节](https://hedon.top/2025/11/16/go/go-slice/) (2025-11-16)
- - 🍯 [三年工作复盘丨技术篇：软件工程是什么丨（一）管理复杂度](https://hedon.top/2025/11/14/first-job-review-01-tech-01-manager-complexity/) (2025-11-14)<!-- BLOG-POST-LIST:END -->
+ - 🎃 [Go 底层原理丨网络编程](https://hedon.top/2025/11/23/go/go-net/) (2025-11-23)
+ - 🐌 [Go 底层原理丨channel](https://hedon.top/2025/11/22/go/go-channel/) (2025-11-22)
+ - 🦁 [Go 底层原理丨锁](https://hedon.top/2025/11/21/go/go-lock/) (2025-11-21)
+ - 🍯 [Go 底层原理丨垃圾回收（green tea gc）](https://hedon.top/2025/11/19/go/go-gc-green-tea-gc/) (2025-11-19)
+ - 🍭 [Go 底层原理丨垃圾回收（三色标记法）](https://hedon.top/2025/11/17/go/go-gc-tri-color-marking/) (2025-11-17)
+ - 🤯 [Go 底层原理丨内存模型](https://hedon.top/2025/11/17/go/go-memory-model/) (2025-11-17)
+ - 🍄 [Go 底层原理丨interface](https://hedon.top/2025/11/17/go/go-interface/) (2025-11-17)
+ - 🐧 [Go 底层原理丨map（Swiss Table 版本）](https://hedon.top/2025/11/16/go/go-map-swiss/) (2025-11-16)
+ - 🐿️ [Go 底层原理丨map（非 swiss 版本）](https://hedon.top/2025/11/16/go/go-map-no-swiss/) (2025-11-16)
+ - 🍯 [Go 底层原理丨slice 从第一性原理到实现细节](https://hedon.top/2025/11/16/go/go-slice/) (2025-11-16)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
