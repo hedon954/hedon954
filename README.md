@@ -24,8 +24,8 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [MySQL 底层原理丨主从复制带来的新问题](https://hedon.top/2025/12/17/mysql/mysql-master-slave-new-questions/) (2025-12-17)
- - 🐌 [MySQL 底层原理丨Online DDL](https://hedon.top/2025/12/17/mysql/mysql-online-ddl/) (2025-12-17)
+ - 🎃 [MySQL 底层原理丨Online DDL](https://hedon.top/2025/12/17/mysql/mysql-online-ddl/) (2025-12-17)
+ - 🐌 [MySQL 底层原理丨主从复制带来的新问题](https://hedon.top/2025/12/17/mysql/mysql-master-slave-new-questions/) (2025-12-17)
  - 🦁 [MySQL 底层原理丨锁](https://hedon.top/2025/12/17/mysql/mysql-lock/) (2025-12-17)
  - 🍯 [盘点 Redis 各种数据类型](https://hedon.top/2025/12/09/redis/redis-datatype/) (2025-12-09)
  - 🍭 [MySQL Binlog 实践 CDC](https://hedon.top/2025/12/08/mysql/mysql-binlog-practice/) (2025-12-08)
