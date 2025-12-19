@@ -24,16 +24,16 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [MySQL 底层原理丨主从复制带来的新问题](https://hedon.top/2025/12/17/mysql/mysql-master-slave-new-questions/) (2025-12-17)
- - 🐌 [MySQL 底层原理丨Online DDL](https://hedon.top/2025/12/17/mysql/mysql-online-ddl/) (2025-12-17)
- - 🦁 [MySQL 底层原理丨锁](https://hedon.top/2025/12/17/mysql/mysql-lock/) (2025-12-17)
- - 🍯 [盘点 Redis 各种数据类型](https://hedon.top/2025/12/09/redis/redis-datatype/) (2025-12-09)
- - 🍭 [MySQL Binlog 实践 CDC](https://hedon.top/2025/12/08/mysql/mysql-binlog-practice/) (2025-12-08)
- - 🤯 [分库分表 ID 生成方案](https://hedon.top/2025/12/06/mysql/sharding-id-generate/) (2025-12-06)
- - 🍄 [分库分表后的分页查询思路总结](https://hedon.top/2025/12/06/mysql/sharding-page-search/) (2025-12-06)
- - 🐧 [gRPC 原理与应用场景深度解析](https://hedon.top/2025/12/01/computer-net/net-grpc/) (2025-12-01)
- - 🐿️ [HTTP、SSE、WebSocket、gRPC、Streamable HTTP：原理与场景全方位对比分析](https://hedon.top/2025/12/01/computer-net/net-http-sse-ws-grpc/) (2025-12-01)
- - 🍯 [从 HTTP1.0 到 HTTP3 的演化](https://hedon.top/2025/11/29/computer-net/net-http/) (2025-11-29)<!-- BLOG-POST-LIST:END -->
+ - 🎃 [MySQL 底层原理丨事务的实现（及三种日志）](https://hedon.top/2025/12/18/mysql/mysql-transaction/) (2025-12-18)
+ - 🐌 [MySQL 底层原理丨主从复制带来的新问题](https://hedon.top/2025/12/17/mysql/mysql-master-slave-new-questions/) (2025-12-17)
+ - 🦁 [MySQL 底层原理丨Online DDL](https://hedon.top/2025/12/17/mysql/mysql-online-ddl/) (2025-12-17)
+ - 🍯 [MySQL 底层原理丨锁](https://hedon.top/2025/12/17/mysql/mysql-lock/) (2025-12-17)
+ - 🍭 [盘点 Redis 各种数据类型](https://hedon.top/2025/12/09/redis/redis-datatype/) (2025-12-09)
+ - 🤯 [MySQL Binlog 实践 CDC](https://hedon.top/2025/12/08/mysql/mysql-binlog-practice/) (2025-12-08)
+ - 🍄 [分库分表 ID 生成方案](https://hedon.top/2025/12/06/mysql/sharding-id-generate/) (2025-12-06)
+ - 🐧 [分库分表后的分页查询思路总结](https://hedon.top/2025/12/06/mysql/sharding-page-search/) (2025-12-06)
+ - 🐿️ [gRPC 原理与应用场景深度解析](https://hedon.top/2025/12/01/computer-net/net-grpc/) (2025-12-01)
+ - 🍯 [HTTP、SSE、WebSocket、gRPC、Streamable HTTP：原理与场景全方位对比分析](https://hedon.top/2025/12/01/computer-net/net-http-sse-ws-grpc/) (2025-12-01)<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
