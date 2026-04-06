@@ -26,8 +26,8 @@
 <!-- BLOG-POST-LIST:START -->
  - 🎃 [Claude Code 源码解析丨从 6 个问题窥视 CC 的 Harness Engineering](https://hedon.top/2026/04/05/claude-code-source/) (2026-04-05)
  - 🐌 [MySQL 底层原理丨事务的实现（及三种日志）](https://hedon.top/2025/12/18/mysql/mysql-transaction/) (2025-12-18)
- - 🦁 [MySQL 底层原理丨Online DDL](https://hedon.top/2025/12/17/mysql/mysql-online-ddl/) (2025-12-17)
- - 🍯 [MySQL 底层原理丨主从复制带来的新问题](https://hedon.top/2025/12/17/mysql/mysql-master-slave-new-questions/) (2025-12-17)
+ - 🦁 [MySQL 底层原理丨主从复制带来的新问题](https://hedon.top/2025/12/17/mysql/mysql-master-slave-new-questions/) (2025-12-17)
+ - 🍯 [MySQL 底层原理丨Online DDL](https://hedon.top/2025/12/17/mysql/mysql-online-ddl/) (2025-12-17)
  - 🍭 [MySQL 底层原理丨锁](https://hedon.top/2025/12/17/mysql/mysql-lock/) (2025-12-17)
  - 🤯 [盘点 Redis 各种数据类型](https://hedon.top/2025/12/09/redis/redis-datatype/) (2025-12-09)
  - 🍄 [MySQL Binlog 实践 CDC](https://hedon.top/2025/12/08/mysql/mysql-binlog-practice/) (2025-12-08)
