@@ -1,29 +1,31 @@
 <p align="center"><img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></p>
 
 <h1 align="center">Hi 👋, I'm Hedon Wang</h1>
-<h3 align="center">A Golang backend developer from China, now exploring Rust Programming.</h3>
+<h3 align="center">A software engineer from China, now exploring AI Engineering.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hedon954&label=Profile%20views&color=0e75b6&style=flat" alt="hedon954" /> </p>
 
-- :computer: I’m currently learning **Rust**
+- 🤖 Building AI Agent systems at Alibaba.
 
-- 👨‍💻 All of my projects are available at [https://github.com/hedon954](https://github.com/hedon954)
+- 🦀 Favorite language: Rust. Also experienced with Go, Python, and Java.
+- 💬 Ask me about Rust, Go, AI Agents, and backend system design.
+- 🧑‍💻 Projects: [github.com/hedon954](https://github.com/hedon954)
+- ✍️ Writing: [hedon.top](https://hedon.top) · [Zhihu](https://www.zhihu.com/people/hedon-3/posts)
+- 📫 Reach me: [hedonwang@gmail.com](mailto:hedonwang@gmail.com)
+- 🏔️ Off-screen, I enjoy snow mountains, the outdoors, and photography.
 
-- 📝 I regularly write articles on [https://hedon.top](https://hedon.top)
-  
-- 🍞 My Zhihu homepage is [https://www.zhihu.com/people/hedon-3/posts](https://www.zhihu.com/people/hedon-3/posts)
+### ✨ My Vibe Coding Products
 
-- 💬 Ask me about **go, rust and backend system design**
+- 🧭 **[daedalus](https://github.com/hedon954/daedalus)**: A filesystem-first learning coach for deep study, guided practice, reflection, and verified knowledge. Named after the mythic craftsman who built labyrinths and wings.
 
-- 📫 How to reach me **171725713@qq.com**
+- 📚 **[lumen-pdf](https://github.com/hedon954/lumen-pdf)**: A macOS-native smart PDF reader for deep readers: as smooth as Preview, with context-aware translation, native highlights and underlines, and long-term knowledge accumulation.
 
-- 📄 Know about my experiences [todo](todo)
+- 🧩 **[chat-layer](https://github.com/hedon954/chat-layer)**: A Chrome extension that upgrades ChatGPT and Gemini with reply outlines, diagram rendering, and better conversation navigation.
 
-- :mount_fuji: Always enjoy snow mountain, outdoors and photography
-
-### Blogs posts
+### 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
  - 🎃 [Claude Code 源码解析丨从 6 个问题窥视 CC 的 Harness Engineering](https://hedon.top/2026/04/05/claude-code-source/) (2026-04-05)
  - 🐌 [MySQL 底层原理丨事务的实现（及三种日志）](https://hedon.top/2025/12/18/mysql/mysql-transaction/) (2025-12-18)
  - 🦁 [MySQL 底层原理丨主从复制带来的新问题](https://hedon.top/2025/12/17/mysql/mysql-master-slave-new-questions/) (2025-12-17)
@@ -35,10 +37,4 @@
  - 🐿️ [分库分表后的分页查询思路总结](https://hedon.top/2025/12/06/mysql/sharding-page-search/) (2025-12-06)
  - 🍯 [gRPC 原理与应用场景深度解析](https://hedon.top/2025/12/01/computer-net/net-grpc/) (2025-12-01)<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/></a>&nbsp;<a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a><a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>&nbsp;<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>&nbsp;<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/></a>&nbsp;<a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>&nbsp;<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a> 
-<br>
 <p><img align="left" width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=hedon954&show_icons=true&locale=en&orgs=hedon-rust-road,hedon-go-road" alt="hedon954" /></p><p><img align="left" width="30%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=hedon954&show_icons=true&locale=en&layout=compact&hide=html,javascript,css&orgs=hedon-rust-road,hedon-go-road" alt="hedon954" /></p>
-
