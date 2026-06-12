@@ -25,7 +25,6 @@
 ### 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
  - 🎃 [Claude Code 源码解析丨从 6 个问题窥视 CC 的 Harness Engineering](https://hedon.top/2026/04/05/claude-code-source/) (2026-04-05)
  - 🐌 [MySQL 底层原理丨事务的实现（及三种日志）](https://hedon.top/2025/12/18/mysql/mysql-transaction/) (2025-12-18)
  - 🦁 [MySQL 底层原理丨主从复制带来的新问题](https://hedon.top/2025/12/17/mysql/mysql-master-slave-new-questions/) (2025-12-17)
