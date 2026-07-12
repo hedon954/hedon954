@@ -22,6 +22,8 @@
 
 - 🧩 **[chat-layer](https://github.com/hedon954/chat-layer)**: A Chrome extension that upgrades ChatGPT and Gemini with reply outlines, diagram rendering, and better conversation navigation.
 
+- 🎧 **[shadowing](https://github.com/hedon954/shadowing)**: Local-first macOS English shadowing app — loop clips, record in sync, compare takes. No account, no upload.
+
 ### 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
