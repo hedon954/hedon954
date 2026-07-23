@@ -38,4 +38,3 @@
  - 🐿️ [分库分表 ID 生成方案](https://hedon.top/2025/12/06/mysql/sharding-id-generate/) (2025-12-06)
  - 🍯 [分库分表后的分页查询思路总结](https://hedon.top/2025/12/06/mysql/sharding-page-search/) (2025-12-06)<!-- BLOG-POST-LIST:END -->
 
-<p><img align="left" width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=hedon954&show_icons=true&locale=en&orgs=hedon-rust-road,hedon-go-road" alt="hedon954" /></p><p><img align="left" width="30%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=hedon954&show_icons=true&locale=en&layout=compact&hide=html,javascript,css&orgs=hedon-rust-road,hedon-go-road" alt="hedon954" /></p>
