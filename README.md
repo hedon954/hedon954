@@ -29,12 +29,12 @@
 <!-- BLOG-POST-LIST:START -->
  - 🎃 [AI Chatbot 追问建议组件的设计与实现](https://hedon.top/blog/ai-agent/ai-chatbot-suggestion-list/) (2026-07-18)
  - 🐌 [ReAct 是更好的故事，Workflow 是更好的系统](https://hedon.top/blog/ai-agent/ai-agent-react-vs-workflow/) (2026-06-15)
- - 🦁 [Claude Code 源码解析丨从 6 个问题窥视 CC 的 Harness Engineering](https://hedon.top/blog/claude-code-source/) (2026-04-05)
- - 🍯 [MySQL 底层原理丨事务的实现（及三种日志）](https://hedon.top/blog/mysql/mysql-transaction/) (2025-12-18)
- - 🍭 [MySQL 底层原理丨主从复制带来的新问题](https://hedon.top/blog/mysql/mysql-master-slave-new-questions/) (2025-12-17)
- - 🤯 [MySQL 底层原理丨Online DDL](https://hedon.top/blog/mysql/mysql-online-ddl/) (2025-12-17)
- - 🍄 [MySQL 底层原理丨锁](https://hedon.top/blog/mysql/mysql-lock/) (2025-12-17)
- - 🐧 [盘点 Redis 各种数据类型](https://hedon.top/blog/redis/redis-datatype/) (2025-12-09)
- - 🐿️ [MySQL Binlog 实践 CDC](https://hedon.top/blog/mysql/mysql-binlog-practice/) (2025-12-08)
- - 🍯 [分库分表 ID 生成方案](https://hedon.top/blog/mysql/sharding-id-generate/) (2025-12-06)<!-- BLOG-POST-LIST:END -->
+ - 🦁 [从逐词生成理解 KV Cache](https://hedon.top/blog/understand-kv-cache/) (2026-06-09)
+ - 🍯 [Claude Code 源码解析丨从 6 个问题窥视 CC 的 Harness Engineering](https://hedon.top/blog/claude-code-source/) (2026-04-05)
+ - 🍭 [MySQL 底层原理丨事务的实现（及三种日志）](https://hedon.top/blog/mysql/mysql-transaction/) (2025-12-18)
+ - 🤯 [MySQL 底层原理丨主从复制带来的新问题](https://hedon.top/blog/mysql/mysql-master-slave-new-questions/) (2025-12-17)
+ - 🍄 [MySQL 底层原理丨Online DDL](https://hedon.top/blog/mysql/mysql-online-ddl/) (2025-12-17)
+ - 🐧 [MySQL 底层原理丨锁](https://hedon.top/blog/mysql/mysql-lock/) (2025-12-17)
+ - 🐿️ [盘点 Redis 各种数据类型](https://hedon.top/blog/redis/redis-datatype/) (2025-12-09)
+ - 🍯 [MySQL Binlog 实践 CDC](https://hedon.top/blog/mysql/mysql-binlog-practice/) (2025-12-08)<!-- BLOG-POST-LIST:END -->
 
