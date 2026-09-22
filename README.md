@@ -28,13 +28,13 @@
 
 <!-- BLOG-POST-LIST:START -->
  - 🎃 [Prompt Engineering 从提示词撰写到生产治理](https://hedon.top/blog/ai-agent/ai-agent-prompt-engineering/) (2026-09-21)
- - 🐌 [AI Chatbot 追问建议组件的设计与实现](https://hedon.top/blog/ai-agent/ai-chatbot-suggestion-list/) (2026-07-18)
- - 🦁 [ReAct 是更好的故事，Workflow 是更好的系统](https://hedon.top/blog/ai-agent/ai-agent-react-vs-workflow/) (2026-06-15)
- - 🍯 [Claude Code 源码解析丨从 6 个问题窥视 CC 的 Harness Engineering](https://hedon.top/blog/claude-code-source/) (2026-04-05)
- - 🍭 [MySQL 底层原理丨事务的实现（及三种日志）](https://hedon.top/blog/mysql/mysql-transaction/) (2025-12-18)
- - 🤯 [MySQL 底层原理丨主从复制带来的新问题](https://hedon.top/blog/mysql/mysql-master-slave-new-questions/) (2025-12-17)
- - 🍄 [MySQL 底层原理丨Online DDL](https://hedon.top/blog/mysql/mysql-online-ddl/) (2025-12-17)
- - 🐧 [MySQL 底层原理丨锁](https://hedon.top/blog/mysql/mysql-lock/) (2025-12-17)
- - 🐿️ [盘点 Redis 各种数据类型](https://hedon.top/blog/redis/redis-datatype/) (2025-12-09)
- - 🍯 [MySQL Binlog 实践 CDC](https://hedon.top/blog/mysql/mysql-binlog-practice/) (2025-12-08)<!-- BLOG-POST-LIST:END -->
+ - 🐌 [大模型推理：KV Cache 的底层原理、挑战与应对](https://hedon.top/blog/llm-kv-cache/) (2026-09-18)
+ - 🦁 [AI Chatbot 追问建议组件的设计与实现](https://hedon.top/blog/ai-agent/ai-chatbot-suggestion-list/) (2026-07-18)
+ - 🍯 [ReAct 是更好的故事，Workflow 是更好的系统](https://hedon.top/blog/ai-agent/ai-agent-react-vs-workflow/) (2026-06-15)
+ - 🍭 [Claude Code 源码解析丨从 6 个问题窥视 CC 的 Harness Engineering](https://hedon.top/blog/claude-code-source/) (2026-04-05)
+ - 🤯 [MySQL 底层原理丨事务的实现（及三种日志）](https://hedon.top/blog/mysql/mysql-transaction/) (2025-12-18)
+ - 🍄 [MySQL 底层原理丨主从复制带来的新问题](https://hedon.top/blog/mysql/mysql-master-slave-new-questions/) (2025-12-17)
+ - 🐧 [MySQL 底层原理丨Online DDL](https://hedon.top/blog/mysql/mysql-online-ddl/) (2025-12-17)
+ - 🐿️ [MySQL 底层原理丨锁](https://hedon.top/blog/mysql/mysql-lock/) (2025-12-17)
+ - 🍯 [盘点 Redis 各种数据类型](https://hedon.top/blog/redis/redis-datatype/) (2025-12-09)<!-- BLOG-POST-LIST:END -->
 
