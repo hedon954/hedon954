@@ -27,14 +27,14 @@
 ### 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
- - 🎃 [读书笔记丨《启示录：打造用户喜爱的产品》](https://hedon.top/blog/note/note-inspired-how-to-create-products-coustomers-love/) (2026-11-02)
- - 🐌 [Prompt Engineering 从提示词撰写到生产治理](https://hedon.top/blog/ai-agent/ai-agent-prompt-engineering/) (2026-09-21)
- - 🦁 [大模型推理：KV Cache 的底层原理、挑战与应对](https://hedon.top/blog/llm-kv-cache/) (2026-09-18)
- - 🍯 [AI Chatbot 追问建议组件的设计与实现](https://hedon.top/blog/ai-agent/ai-chatbot-suggestion-list/) (2026-07-18)
- - 🍭 [ReAct 是更好的故事，Workflow 是更好的系统](https://hedon.top/blog/ai-agent/ai-agent-react-vs-workflow/) (2026-06-15)
- - 🤯 [Claude Code 源码解析丨从 6 个问题窥视 CC 的 Harness Engineering](https://hedon.top/blog/claude-code-source/) (2026-04-05)
- - 🍄 [MySQL 底层原理丨事务的实现（及三种日志）](https://hedon.top/blog/mysql/mysql-transaction/) (2025-12-18)
- - 🐧 [MySQL 底层原理丨主从复制带来的新问题](https://hedon.top/blog/mysql/mysql-master-slave-new-questions/) (2025-12-17)
- - 🐿️ [MySQL 底层原理丨Online DDL](https://hedon.top/blog/mysql/mysql-online-ddl/) (2025-12-17)
- - 🍯 [MySQL 底层原理丨锁](https://hedon.top/blog/mysql/mysql-lock/) (2025-12-17)<!-- BLOG-POST-LIST:END -->
+ - 🎃 [读书笔记丨《时间贫困》](https://hedon.top/blog/note/note-happier-hour/) (2026-11-14)
+ - 🐌 [读书笔记丨《启示录：打造用户喜爱的产品》](https://hedon.top/blog/note/note-inspired-how-to-create-products-coustomers-love/) (2026-11-02)
+ - 🦁 [Prompt Engineering 从提示词撰写到生产治理](https://hedon.top/blog/ai-agent/ai-agent-prompt-engineering/) (2026-09-21)
+ - 🍯 [大模型推理：KV Cache 的底层原理、挑战与应对](https://hedon.top/blog/llm-kv-cache/) (2026-09-18)
+ - 🍭 [AI Chatbot 追问建议组件的设计与实现](https://hedon.top/blog/ai-agent/ai-chatbot-suggestion-list/) (2026-07-18)
+ - 🤯 [ReAct 是更好的故事，Workflow 是更好的系统](https://hedon.top/blog/ai-agent/ai-agent-react-vs-workflow/) (2026-06-15)
+ - 🍄 [Claude Code 源码解析丨从 6 个问题窥视 CC 的 Harness Engineering](https://hedon.top/blog/claude-code-source/) (2026-04-05)
+ - 🐧 [MySQL 底层原理丨事务的实现（及三种日志）](https://hedon.top/blog/mysql/mysql-transaction/) (2025-12-18)
+ - 🐿️ [MySQL 底层原理丨主从复制带来的新问题](https://hedon.top/blog/mysql/mysql-master-slave-new-questions/) (2025-12-17)
+ - 🍯 [MySQL 底层原理丨Online DDL](https://hedon.top/blog/mysql/mysql-online-ddl/) (2025-12-17)<!-- BLOG-POST-LIST:END -->
 
